@@ -81,6 +81,6 @@ flex-direction: column-reverse;<br>
 align-content: center<br>
 
 Level 24<br>
-justify-content: center;<br
+justify-content: center;<br>
 flex-flow: column-reverse wrap-reverse;<br>
 align-content: space-between;
